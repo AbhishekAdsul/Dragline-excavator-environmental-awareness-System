@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deploy Python App</title>
+</head>
+<body>
+    <button onclick="deployPythonApp()">Deploy Python App</button>
+
+    <script>
+        function deployPythonApp() {
+            // Make an HTTP request to the server to trigger the deployment
+            fetch('http://localhost:5000/deploy', { method: 'POST' })
+                .then(response => response.text())
+                .then(message => alert(message))
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>
