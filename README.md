@@ -1,1 +1,11 @@
 Dragline Excavator Environment Awareness System – A Python-based desktop application providing real-time environmental monitoring for industrial operations.
+![Image](https://github.com/user-attachments/assets/ccef8576-2e72-44da-8cab-e3f132b95009)
+![Image](https://github.com/user-attachments/assets/716113c7-f4c4-4911-8a65-3d3fdd680469)
+![Image](https://github.com/user-attachments/assets/71fff3a4-c18a-4662-aa00-c43de52ac2ba)
+![Image](https://github.com/user-attachments/assets/175d983c-b6f5-4aa1-b394-a68fa6223b26)
+![Image](https://github.com/user-attachments/assets/43ddfa3b-6634-43a1-9ca8-57c34aac70d1)
+![Image](https://github.com/user-attachments/assets/e11ae88c-51f2-4679-81d3-f4fdd1074baa)
+![Image](https://github.com/user-attachments/assets/c179d96f-09c0-4ee5-b352-ddf164ee253c)
+![Image](https://github.com/user-attachments/assets/dcce1161-54b8-4c95-bd8a-daa80d42be13)
+![Image](https://github.com/user-attachments/assets/afe8b72c-00d3-48f4-9ad0-4a42d62d193d)
+![Image](https://github.com/user-attachments/assets/bc166f41-06e0-41af-ad4f-55771e4df371)
